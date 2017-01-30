@@ -7,7 +7,7 @@
         id="yourpackagename.yourwebproject" version="2.5">
     <display-name>Your Web Project</display-name>
 
-    <!-- Spring Framework Configuration -->
+    <!-- Spring Framework Configuration  Some-->
     <context-param>
         <param-name>contextConfigLocation</param-name>
         <param-value>
